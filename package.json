@@ -1,0 +1,16 @@
+{
+  "name": "stock-price-disc-bot",
+  "version": "1.0.0",
+  "description": "uses iexcloud api to check and send stock prices to discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vuhctreh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
